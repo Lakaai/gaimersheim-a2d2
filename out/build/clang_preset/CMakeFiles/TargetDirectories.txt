@@ -1,3 +1,0 @@
-/home/luke/Gaimersheim_a2d2/optical_flow/out/build/clang_preset/CMakeFiles/a2d2_navigation_core.dir
-/home/luke/Gaimersheim_a2d2/optical_flow/out/build/clang_preset/CMakeFiles/edit_cache.dir
-/home/luke/Gaimersheim_a2d2/optical_flow/out/build/clang_preset/CMakeFiles/rebuild_cache.dir
